@@ -1,0 +1,25 @@
+
+
+.aside .logo a::before{
+    border-left: 4px solid #ec1839;
+   border-top: 4px solid #ec1839;
+}
+
+.aside .logo a::after{
+    border-bottom: 4px solid #ec1839;
+   border-right: 4px solid #ec1839;
+}
+.aside .nav li .active,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover{
+    color: #ec1839;
+}
+
+.aside .nav-toggler span,
+.aside .nav-toggler span::after,
+.home .intro .social-link a,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span::before{
+    background-color: #ec1839;
+}

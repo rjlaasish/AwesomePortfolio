@@ -16,6 +16,8 @@
 }
 
 .btn,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .timeline .timeline-item .circle-dot,
 .about .about-content .skills .skill-item .progress .progress-in,
 .aside .nav-toggler span,
 .aside .nav-toggler span::after,
